@@ -1,0 +1,8 @@
+#!/bin/bash
+
+a=10   # Assign a value to a
+b=25   # Assign a value to b
+
+sum=$((a + b))   # Calculate the sum using arithmetic expansion
+
+echo "The sum of a and b is: $sum"
