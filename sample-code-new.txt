@@ -6,4 +6,8 @@ c=45   # Assign a value to c
 
 sum=$((a + b + c))   # Calculate the sum using arithmetic expansion
 
+echo "changes done in dev environment"
+
 echo "The sum of a and b is: $sum"
+
+echo "changes done for testing purpose"
